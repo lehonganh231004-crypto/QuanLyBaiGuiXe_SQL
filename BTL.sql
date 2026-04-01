@@ -1,7 +1,3 @@
--- =========================================================================
--- ĐỒ ÁN CƠ SỞ DỮ LIỆU: QUẢN LÝ BÃI GỬI XE
--- NHÓM: Hồng Anh (Leader), Tuấn Anh, Đức Dũng, Ngọc Dương, Thế Hanh
--- =========================================================================
 
 -- CHỐNG LỖI: Tự động xóa Database cũ (nếu có) để tạo lại từ đầu thật sạch sẽ
 USE master;
