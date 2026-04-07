@@ -94,7 +94,7 @@ UPDATE LUOT_VAO_RA SET ThoiGianRa = '2026-03-27 17:00:00', TienThu = 0 WHERE MaG
 GO
 
 -- =========================================================================
--- PHẦN 4: TRUY VẤN XUẤT BÁO CÁO (CHỤP ẢNH DÁN VÀO WORD)
+-- PHẦN 4: TRUY VẤN XUẤT BÁO CÁO
 -- =========================================================================
 
 -- Bảng 1: Xem toàn bộ lịch sử xe ra/vào
